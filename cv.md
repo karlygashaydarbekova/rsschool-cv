@@ -8,10 +8,8 @@
 * Objective: learn front-end development
 
 * Skils:
-    * "Web-development: "
-        <span> HTML5, CSS3, Javascript</span>
-    "Version control: "
-        <span> GIT, Github</span>
+    * Web-development: HTML5, CSS3, Javascript
+    * Version control: GIT, Github
 
 * Education: Karaganda Economic University of Kazpotrebsoyuz
 * English level: Pre-Intermediate (A2)
