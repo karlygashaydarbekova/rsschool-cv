@@ -1,0 +1,12 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.text-block {
+    background-color: blue;
+    display: block;
+    width: 137px;
+    height: 19px;
+    overflow: hidden;
+}
