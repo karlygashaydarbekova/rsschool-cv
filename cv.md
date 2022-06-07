@@ -1,6 +1,9 @@
 # Karlygash Aidarbekova
 
-* mobile: +77009666088, discord: karlygash#8433
+* Contacts
+    * e-mail: aydarbekovakarlygash@gmail.com
+    * discord: karlygash#8433
+
 
 * Objective: learn front-end development
 
